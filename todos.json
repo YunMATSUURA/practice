@@ -1,0 +1,52 @@
+[
+    {
+      "userId": 1,
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "userId": 1,
+      "title": "Clean the house",
+      "completed": true
+    },
+    {
+      "userId": 2,
+      "title": "Finish homework",
+      "completed": false
+    },
+    {
+      "userId": 2,
+      "title": "Call the bank",
+      "completed": true
+    },
+    {
+      "userId": 3,
+      "title": "Call mom",
+      "completed": true
+    },
+    {
+      "userId": 3,
+      "title": "Go for a run",
+      "completed": false
+    },
+    {
+      "userId": 4,
+      "title": "Water the plants",
+      "completed": true
+    },
+    {
+      "userId": 4,
+      "title": "Write a blog post",
+      "completed": false
+    },
+    {
+      "userId": 5,
+      "title": "Pay bills",
+      "completed": false
+    },
+    {
+      "userId": 5,
+      "title": "Book flight tickets",
+      "completed": true
+    }
+  ]
